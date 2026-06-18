@@ -53,5 +53,8 @@ you use any version for ex v1.1 so run cmd
 ./DistroBOXv1.1.sh
 use v1.2 so run comnand
 ./DistroBOXv1.2.sh
+output of v1.1 of DistroBOX
+![output of v1.1 of DistroBOX](Screenshot_2026-06-18-21-46-35-73)
+
 
 
