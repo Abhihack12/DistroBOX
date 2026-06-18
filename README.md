@@ -45,13 +45,8 @@ pkg update && pkg upgrade -y
 pkg install git -y
 git clone https://github.com/abhihack12/DistroBOX.git
 cd DistroBOX
-so let's setup tool use setup file
-first give exicutive permission so
-chmod +x setup.sh
 ./setup.sh
-you use any version for ex v1.1 so run cmd
 ./DistroBOXv1.1.sh
-use v1.2 so run comnand
 ./DistroBOXv1.2.sh
 
 
