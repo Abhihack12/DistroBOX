@@ -53,4 +53,6 @@ you use any version for ex v1.1 so run cmd
 ./DistroBOXv1.1.sh
 use v1.2 so run command
 ./DistroBOXv1.2.sh
+# output of verion v1.1 Of DistroBOX
+
 
