@@ -45,8 +45,14 @@ pkg update && pkg upgrade -y
 pkg install git -y
 git clone https://github.com/abhihack12/DistroBOX.git
 cd DistroBOX
+chmod +x setup.sh
 ./setup.sh
 ./DistroBOXv1.1.sh
 ./DistroBOXv1.2.sh
+
+
+# important
+
+caution⚠️⚠️:- the
 
 
