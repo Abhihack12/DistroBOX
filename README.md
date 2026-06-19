@@ -48,11 +48,8 @@ cd DistroBOX
 chmod +x setup.sh
 ./setup.sh
 ./DistroBOXv1.1.sh
-./DistroBOXv1.2.sh
+.
 
-
-# important
-
-caution⚠️⚠️:- the
+caution⚠️⚠️:- agar appke pass max 17 GB nahi hai to high linux distro na install kare.
 
 
