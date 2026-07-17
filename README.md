@@ -33,8 +33,8 @@ ye tool linux ke alag alag linux distro install karta bhut bar kya hota ham ethi
 
 Is script ko chalane ke liye aapko **Termux** app ki jarurat hogi. Agar install nahi hai, toh aap isse [F-Droid](https://f-droid.org/) se download kar sakte hain.
 
-```bash
-licences linuxinstaller 
+
+
 
 
 ---
@@ -52,5 +52,9 @@ cd DistroBOX
 chmod +x setup.sh
 ./setup.sh
 ./DistroBOXv1.1.sh
+
+##license
+```bash
+licence=linuxinstaller 
 
 
