@@ -32,7 +32,10 @@ ye tool linux ke alag alag linux distro install karta bhut bar kya hota ham ethi
 ## 🛠️ Requirements
 
 Is script ko chalane ke liye aapko **Termux** app ki jarurat hogi. Agar install nahi hai, toh aap isse [F-Droid](https://f-droid.org/) se download kar sakte hain.
-licences=linuxinstaller
+
+```bash
+licences linuxinstaller 
+
 
 ---
 
